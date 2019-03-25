@@ -1,7 +1,9 @@
 SOURCES += \
     main.cpp \
-    mafenetre.cpp
+    mafenetre.cpp \
+    charger_csv.cpp
 QT += widgets
 
 HEADERS += \
-    mafenetre.h
+    mafenetre.h \
+    charger_csv.h
